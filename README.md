@@ -4,7 +4,7 @@
 
 ## Builder Bounty Board
 
-Use our [Builder Bounty Board](https://github.com/NillionNetwork/builder-bounties) to discover open bounties. Open bounties have specific requirements; follow the bounty's submission instructions by the due date to be eligible for rewards.
+Use our [Builder Bounty Board](https://github.com/orgs/NillionNetwork/projects/3/) to discover open bounties. Open bounties have specific requirements; follow the bounty's submission instructions by the due date to be eligible for rewards.
 
 ## Developer Resources
 
@@ -16,7 +16,7 @@ Use our [Builder Bounty Board](https://github.com/NillionNetwork/builder-bountie
 
 ## Getting help
 
-- Have a question about a specific bounty? Navigate to the bounty within the [Builder Bounty Board](https://github.com/NillionNetwork/builder-bounties) to ask your question as a comment on the posted bounty.
+- Have a question about a specific bounty? Navigate to the bounty within the [Builder Bounty Board](https://github.com/orgs/NillionNetwork/projects/3/) to ask your question as a comment on the posted bounty.
 - Start a technical discussion or ask a question on [Github Discussions](https://github.com/orgs/NillionNetwork/discussions)
 - Contact the Nillion team in the #developers-general channel on [Discord](https://discord.com/invite/nillionnetwork)
   
